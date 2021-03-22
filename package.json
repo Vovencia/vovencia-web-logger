@@ -1,0 +1,22 @@
+{
+  "name": "vovencia-web-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vovencia/vovencia-web-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vovencia/vovencia-web-logger/issues"
+  },
+  "homepage": "https://github.com/Vovencia/vovencia-web-logger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
